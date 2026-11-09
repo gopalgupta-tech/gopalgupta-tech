@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hyy..., I'm Gopal ji Gupta
+# Hyy...
+I'm Gopal ji Gupta
 
 ➡️ B.Tech CSE (AI & ML) | AKTU  
  📌Aspiring AI Engineer  
