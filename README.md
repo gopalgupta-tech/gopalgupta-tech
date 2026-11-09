@@ -1,7 +1,7 @@
 
 
 <!--
-**gopalgupta46300-ui/gopalgupta46300-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gopalgupta-tech/gopalgupta-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 
 ➡️ B.Tech CSE (AI & ML) | AKTU  
- 📌Aspiring AI Engineer  
+📌Aspiring AI Engineer  
 💻 AI Systems & Backend Development  
 
 I'm a Computer Science undergraduate from Kanpur, India, passionate about building intelligent applications and understanding how AI systems work under the hood.
 
-I enjoy learning through hands-on projects, exploring new technologies, and strengthening my foundations in computer science and software engineering. Currently, I'm exploring AI engineering, document-grounded systems, machine learning, and backend development.
+I enjoy learning through hands-on projects, exploring new technologies, and strengthening my foundations in computer science and software engineering. Currently, I'm exploring AI engineering, documentation, and practical implementation of machine learning systems.
 
 - 📍 Kanpur, Uttar Pradesh, India
 - 🎓 B.Tech CSE (AI & ML) | AKTU
@@ -131,16 +131,16 @@ Personal website showcasing projects, technical interests, and my journey in sof
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gopalgupta46300-ui&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gopalgupta-tech&theme=github_dark" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gopalgupta46300-ui&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gopalgupta46300-ui&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gopalgupta-tech&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gopalgupta-tech&theme=github_dark" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gopalgupta46300-ui&theme=github-dark-blue&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=gopalgupta-tech&theme=github-dark-blue&hide_border=true" width="100%" />
 </p>
 
 ---
