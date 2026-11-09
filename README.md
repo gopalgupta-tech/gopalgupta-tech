@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Gopal ji Gupta 👋
 
-🎓 B.Tech CSE (AI & ML) | AKTU  
-🤖 Aspiring AI Engineer  
+➡️ B.Tech CSE (AI & ML) | AKTU  
+ 📌Aspiring AI Engineer  
 💻 AI Systems & Backend Development  
 
 I'm a Computer Science undergraduate from Kanpur, India, passionate about building intelligent applications and understanding how AI systems work under the hood.
@@ -28,13 +28,13 @@ I enjoy learning through hands-on projects, exploring new technologies, and stre
 - 🎓 B.Tech CSE (AI & ML) | AKTU
 - 🌐 Portfolio: Coming Soon
 - 📧 Email: gopalgupta46300@gmail.com
-- 💻 GitHub: [@gopalgupta46300-ui](https://github.com/YOUR_USERNAME)
+- 💻 GitHub: [@gopalgupta-tech](https://github.com/gopalgupta-tech)
 
 ---
 
-## 🔧 Technical Skills & Stack
+## Technical Skills & Stack
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=flat&logo=scikitlearn&logoColor=white)
